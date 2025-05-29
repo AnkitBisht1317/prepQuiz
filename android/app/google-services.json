@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "352525814906",
+    "project_id": "pquiz-78ecb",
+    "storage_bucket": "pquiz-78ecb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352525814906:android:ca75b9231d3d97705f3fc3",
+        "android_client_info": {
+          "package_name": "com.example.prepquiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa1UiRQQSq3RQ3SOAeAjNkt1eDlNdXmkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
