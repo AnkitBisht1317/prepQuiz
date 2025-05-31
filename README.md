@@ -10,22 +10,6 @@
 - 🎯 User score tracking
 - 📱 Responsive Flutter UI
 - 🔍 Search and filter capabilities for quizzes (admin-side)
-- 🔒 OTP-based Login via Phone Number
-
-## 📂 Project Structure
-
-prepQuiz-main/
-├── android/ # Android native files
-├── assets/ # App assets (icons, images, etc.)
-├── lib/ # Main Dart source files
-│ ├── admin/ # Admin UI and logic
-│ ├── auth/ # Authentication screens*9
-│ ├── models/ # Data models
-│ ├── screens/ # User-facing screens
-│ ├── services/ # Firebase & business logic
-│ └── main.dart # App entry point
-├── pubspec.yaml # Dependency configuration
-
 
 
 ## 🔧 Getting Started
@@ -48,5 +32,6 @@ Firestore Database
 Firebase Storage (optional for image uploads)
 
 ## 📸 Screenshots
--+
+![Image](https://github.com/user-attachments/assets/7a9aa94f-fae5-4484-a9c8-873c63f5a115)
+![Image](https://github.com/user-attachments/assets/9bbe619a-6554-4f14-b5bc-355f8d110354)
 
