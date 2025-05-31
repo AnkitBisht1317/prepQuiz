@@ -1,16 +1,52 @@
-# prepquiz
+# PrepQuiz
 
-A new Flutter project.
+**PrepQuiz** is a Flutter-based quiz application designed to help users prepare for competitive exams or academic tests. It features a smooth user interface, Firebase integration, and organized quiz categories.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 📚 Categorized quizzes
+- 🔐 Firebase Authentication
+- ☁️ Firestore Database integration
+- 🎯 User score tracking
+- 📱 Responsive Flutter UI
+- 🔍 Search and filter capabilities for quizzes (admin-side)
+- 🔒 OTP-based Login via Phone Number
 
-A few resources to get you started if this is your first Flutter project:
+## 📂 Project Structure
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+prepQuiz-main/
+├── android/ # Android native files
+├── assets/ # App assets (icons, images, etc.)
+├── lib/ # Main Dart source files
+│ ├── admin/ # Admin UI and logic
+│ ├── auth/ # Authentication screens*9
+│ ├── models/ # Data models
+│ ├── screens/ # User-facing screens
+│ ├── services/ # Firebase & business logic
+│ └── main.dart # App entry point
+├── pubspec.yaml # Dependency configuration
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## 🔧 Getting Started
+
+### Prerequisites
+
+- Flutter SDK
+- Dart SDK
+- Firebase account with a project setup
+- Android Studio or VS Code
+
+
+## 🔐 Firebase Setup
+Ensure the following Firebase services are enabled:
+
+Authentication (Phone)
+
+Firestore Database
+
+Firebase Storage (optional for image uploads)
+
+## 📸 Screenshots
+-+
+
