@@ -32,6 +32,9 @@ Firestore Database
 Firebase Storage (optional for image uploads)
 
 ## 📸 Screenshots
+#### Admin
 ![Image](https://github.com/user-attachments/assets/7a9aa94f-fae5-4484-a9c8-873c63f5a115)
+
+#### Student
 ![Image](https://github.com/user-attachments/assets/9bbe619a-6554-4f14-b5bc-355f8d110354)
 
