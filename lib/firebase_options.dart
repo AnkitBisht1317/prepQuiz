@@ -50,19 +50,19 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAa1UiRQQSq3RQ3SOAeAjNkt1eDlNdXmkI',
-    appId: '1:352525814906:android:ca75b9231d3d97705f3fc3',
-    messagingSenderId: '352525814906',
-    projectId: 'pquiz-78ecb',
-    storageBucket: 'pquiz-78ecb.firebasestorage.app',
+    apiKey: 'AIzaSyBbGi-CcSPB5ehs2TuR0iR-wx_dWVHcCLw',
+    appId: '1:96755070389:android:e847b3415164e9dc1d15fc',
+    messagingSenderId: '96755070389',
+    projectId: 'pquiz-f7f7f',
+    storageBucket: 'pquiz-f7f7f.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBJyHdP9Z0K0dG6vsg-jTka-Bba2pZtCpo',
-    appId: '1:352525814906:ios:f88837c3774528d55f3fc3',
-    messagingSenderId: '352525814906',
-    projectId: 'pquiz-78ecb',
-    storageBucket: 'pquiz-78ecb.firebasestorage.app',
+    apiKey: 'AIzaSyAQyRJ4MpLhh_3Sw_brndREJDEtWo2B1fQ',
+    appId: '1:96755070389:ios:8038ddb3a12ffaca1d15fc',
+    messagingSenderId: '96755070389',
+    projectId: 'pquiz-f7f7f',
+    storageBucket: 'pquiz-f7f7f.firebasestorage.app',
     iosBundleId: 'com.example.prepquiz',
   );
 }
